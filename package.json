@@ -1,0 +1,27 @@
+{
+  "name": "webpack-code-splitting",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JagadishPujari/webpack-code-splitting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JagadishPujari/webpack-code-splitting/issues"
+  },
+  "homepage": "https://github.com/JagadishPujari/webpack-code-splitting#readme"
+}
